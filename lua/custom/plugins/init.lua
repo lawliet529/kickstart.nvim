@@ -4,6 +4,7 @@
 -- See the kickstart.nvim README for more information
 
 vim.o.showmode = false
+vim.o.linebreak = true
 
 return {
   'rlue/vim-barbaric',
